@@ -1,6 +1,6 @@
 import java.io.*;
 
-
+////
 public class Swapping {
 
 	public static void main(String[] args) throws IOException
